@@ -1,0 +1,12 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^17.2.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
